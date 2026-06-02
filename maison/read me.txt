@@ -1,0 +1,32 @@
+Voici ma première version de mon projet d'auto cliker, c'est une version qui, malgré moi, c'est trop éloigné du Cahier
+Des Charges (CDC).
+Je suis donc parti pour recommencer sur de bonnes bases. Mais voici une version beta pour que je puisse presenter mon projet.
+Mais aussi réutiliser du code, voir les manières de fonctionnement et pouvoir avoir quelques informations pratiques.
+
+Des fichiers mis en forme avec claude sont disponible dans le dossier Beta/Refactor Claude.
+
+
+Fonctionnement :
+Tous les fichiers fonctionnent séparément, mais c'est un gros bordel au niveau de la gestion des variables dans le main
+Donc le main ne fonctionne pas. Si vous voulez utiliser l'auto-clicker, il faut, dans le fichier recorder,
+effectuer un print de la fonction Recorder.r______ (clavier, souris, clavier-souris) et copier, coller une ou deux liste
+dans la partie action avec les fonctions Executor.action_______ (clavier, souris, clavier-souris).
+
+Le fonctionnement est sensiblement le même pour la partie mise en forme par claude.
+
+------------------------------------------------------------------------------------------------------------------------
+EN:
+This is the first version of my auto-clicker project. Unfortunately, it ended up drifting too far away from
+the specifications outlined in the Requirements Document (CDC).
+I have therefore decided to start over on a cleaner and more solid foundation.
+However, this beta version is available so that I can present the project, reuse some of the code,
+study the different implementation methods, and gather some practical information.
+
+Files reformatted with Claude are available in the Beta/Refactor Claude folder.
+
+How it works :
+All files work independently, but variable management in the main file is extremely messy.
+As a result, the main file does not work properly. If you want to use the auto-clicker, you need to open the recorder file,
+print the output of the Recorder.r______ function (keyboard, mouse, or keyboard-mouse), then copy and paste one or more
+of the generated lists into the action section using the Executor.action_______ functions (keyboard, mouse, or keyboard-mouse).
+The workflow is essentially the same for the version that was reformatted by Claude.

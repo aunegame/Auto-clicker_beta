@@ -1,0 +1,40 @@
+FR :
+Voici la version refaite par claude AI, c'est une version qui joint aux 5 ficiers de la version maison,
+suit le prompt suivant :
+
+Ces 5 fichiers sont la version beta de mon auto clicker. Il s'agit d'une version qui c'est un peu beaucoup éloigné
+de mon Cahier Des Charges original. Cependant, je vais tout refaire et j'aurai besoin de réutiliser du code provenant
+de ces fichiers. Par conséquent, il faudrais que tu les remanie (sans changer le fonctionnement logique du programme).
+Il faut que ces programmes, soient toujours fonctionnels, aient des noms de fonctions et de variables plus lisibles
+(je n'arrive pas à lire quand 2 variables indépendantes ont le même nom), soient commentés de manière claire et détaillé
+(# et ou """) afin de comprendre au premier regard quel bout de code pourrai répondre à mes besoin et aux normes
+de la PEP8.
+Les consignes sont rangés dans l'ordre d'importance ce qui veux dire que si, pour qu'une variable soit claire,
+elle ne peux pas être PEP8, l'argument de la clarté des variable passe avant. de même pour le nom des variables
+fâce au bon fonctionnement du code...
+
+De plus, tu incorpore ces fichiers dans ta mémoire me concernant afin d'analyser, comprendre
+comment je code et pouvoir réponde à mes questions en cas de questionnement à l'avenir au niveau de cet auto-clicker
+
+------------------------------------------------------------------------------------------------------------------------
+EN:
+Here is the version refactored by Claude AI. In addition to the five files from the original version,
+it follows the prompt below:
+
+These five files are the beta version of my auto-clicker. This version has drifted quite significantly
+from my original Requirements Document. However, I am going to rebuild everything from scratch, and I will need to
+reuse code from these files.
+
+Therefore, I would like you to refactor them without changing the program's logical behavior. The programs must remain
+fully functional, use more readable function and variable names (I struggle when two independent variables share
+the same name), be clearly and thoroughly documented with comments (# and/or """), and comply with PEP 8 standards
+whenever possible.
+
+The instructions are ordered by priority. This means that if a variable name cannot be both clear and PEP 8 compliant,
+clarity takes precedence. Likewise, preserving the correct behavior of the code takes priority over variable naming
+conventions.
+
+In addition, incorporate these files into your understanding of my coding style in order to analyze and understand how
+I write code, so that you can better answer future questions regarding this auto-clicker project.
+
+(This is a traduction from french)
