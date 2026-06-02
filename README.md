@@ -3,7 +3,7 @@ A program designed to record and replay mouse clicks and keystrokes
 
 EN:
 This is the first version of my auto-clicker project. Unfortunately, it ended up drifting too far away from
-the specifications outlined in the Requirements Document (CDC).
+the specifications outlined in the Requirements Document.
 I have therefore decided to start over on a cleaner and more solid foundation.
 However, this beta version is available so that I can present the project, reuse some of the code,
 study the different implementation methods, and gather some practical information.
